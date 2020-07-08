@@ -49,6 +49,10 @@ p {
     font-size: 2em
   }
 
+p {
+    line-height: 2;
+}
+
 。サインアップ {
   背景色：＃239b76;
 }
