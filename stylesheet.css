@@ -48,13 +48,15 @@
 }
 
 p {
-    font-size: 2em
-    background-color: #00CED1;
-    padding: 10px;
+    font-size: 2em;
   }
 
 p {
     line-height: 2;
+}
+
+p {
+    background-color: #00CED1;
 }
 
 。サインアップ {
