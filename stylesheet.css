@@ -30,6 +30,7 @@
   font-size：45px;
   letter-spacing：5px;
   color: #40E0D0;
+  border-bottom: 5px solid #000000;
 }
 
 .top-wrapper p {
@@ -142,6 +143,8 @@ p {
 
 .heading h2 {
   font-weight：通常;
+  font-size：20px;
+  }
 }
 
 。レッスン {
@@ -235,11 +238,7 @@ p {
 @media allおよび（max-width：750px）{
   .top-wrapper h1 {
     font-size：32px;
-  }
-
-  .heading h2 {
-    font-size：20px;
-  }
+  }  
 }
 
 @media allおよび（max-width：670px）{
